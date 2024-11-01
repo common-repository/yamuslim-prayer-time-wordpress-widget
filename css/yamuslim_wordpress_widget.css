@@ -1,0 +1,15 @@
+#timetable{
+	color: #2bb38e;
+	font-size: 16px;
+	font-weight: bold; 
+	margin-top: 20px;
+}
+tr:hover > #timetable{
+	font-size: 60px;
+}
+tr{
+	border:none;
+	padding: 5px;
+}
+tr:nth-child(even) {background-color: #bef5d2}
+tr:hover {background-color: #ffd77a}
